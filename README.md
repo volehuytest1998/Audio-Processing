@@ -1,2 +1,2 @@
 # Audio Processing
- Learn audio processing by C++
+ Learn audio processing by C
